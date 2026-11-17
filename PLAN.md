@@ -36,7 +36,7 @@ These are **planned checks**, not results.
 ### Story 3 — Viewing my résumé
 **As an employer**, I want to view or download a résumé so I can learn about the student's education, experience, and skills.
 
-- **Essential feature:** A clearly labeled résumé link to a readable PDF (destination to be added when ready).
+- **Essential feature:** A clearly labeled résumé link to a readable public PDF. A portfolio-focused copy has been prepared as `IS117_Portfolio_Resume.pdf`; it must still be uploaded to the repository and linked from the website.
 - **Observable check:** Open the résumé on a computer and phone and confirm the PDF loads and its text is readable.
 
 ### Story 4 — Finding professional profiles
@@ -59,7 +59,7 @@ I want a clean, modern, professional site that still feels personal. I plan to u
 
 - Group project repository confirmed: [cf344/market-time-line-persuasion](https://github.com/cf344/market-time-line-persuasion). Its README identifies Clara (team leader), Mishal, Aryanna, and Tas; verify full names and GitHub usernames for each member before submitting the group roster.
 - LinkedIn status (November 17, 2026): I do not have a LinkedIn profile yet. I plan to create one later with accurate education, skills, and projects, then add and test its real URL. Until then, leave the link off the live portfolio or label it as a future addition; do not use a broken or fake link.
-- Add a readable résumé PDF and verify its destination.
+- A portfolio-friendly one-page résumé PDF has been prepared from my existing résumé, focusing on NJIT education, relevant technical skills and projects, work experience, and transferable skills. **Pending:** review it, upload `IS117_Portfolio_Resume.pdf` to the portfolio repository, link it from the website, and test desktop/mobile readability. Do not mark the link as live until uploaded.
 - Decide the specific page layout, colors, and navigation; build the portfolio.
 - Run the planned checks on desktop and mobile, recording actual outcomes.
 - Request classmate feedback through GitHub issues; for each issue, record my decision, linked change or reason for deferral, verification, and reviewer retry before closing.
