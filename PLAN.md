@@ -78,6 +78,12 @@ These are **planned checks**, not results.
 - **Status:** Passed for the published-site visibility and link checks reported by the student. Descriptions and mobile layout of the new section have not been separately verified.
 - **Deployment note:** The student observed a successful GitHub Pages build and deployment run #12 before testing the updated site.
 
+### Professional Profiles — published website check (November 17, 2026)
+
+- **Test (student-reported):** Opened the published Professional Profiles section and followed its GitHub and LinkedIn links.
+- **Observed result:** GitHub opened the correct `cf344` profile and LinkedIn opened the correct public profile.
+- **Status:** Passed for both profile links on the browser/device tested. Mobile testing of these newly added profile links is not separately confirmed.
+
 ## Visual direction and honest persuasion
 
 I want a clean, modern, professional site that still feels personal. I plan to use consistent colors, readable fonts, clear navigation, and project cards. I will carry forward the decision to show **evidence of work** rather than make unsupported claims. I am still learning, so project descriptions should explain my actual contributions and what I learned. I will not present future work as completed.
@@ -85,8 +91,8 @@ I want a clean, modern, professional site that still feels personal. I plan to u
 ## Open questions and next steps
 
 - Group project repository confirmed: [cf344/market-time-line-persuasion](https://github.com/cf344/market-time-line-persuasion). Its README identifies Clara (team leader), Mishal, Aryanna, and Tas; verify full names and GitHub usernames for each member before submitting the group roster.
-- LinkedIn status (November 17, 2026): I supplied my public LinkedIn URL and added it alongside my GitHub profile to the live site's Professional Profiles section. **Pending:** verify both links after deployment on desktop and mobile.
-- A portfolio-friendly one-page résumé PDF has been prepared from my existing résumé, focusing on NJIT education, relevant technical skills and projects, work experience, and transferable skills. **Uploaded:** `IS117_Portfolio_Resume.pdf` is on the repository's `main` branch. **Linked:** `docs/index.html` includes a View Résumé (PDF) link pointing to `../IS117_Portfolio_Resume.pdf`. **Pending:** test the deployed link and readability on desktop and mobile; do not mark these checks as passed until tested.
+- LinkedIn status (November 17, 2026): I supplied my public LinkedIn URL and added it alongside my GitHub profile to the live site's Professional Profiles section. **Verified:** Both links opened the correct profiles in the student's published-site test. **Remaining:** optional mobile retest of these newly added links.
+- A portfolio-friendly one-page résumé PDF has been prepared from my existing résumé, focusing on NJIT education, relevant technical skills and projects, work experience, and transferable skills. **Uploaded:** `IS117_Portfolio_Resume.pdf` is on the repository's `main` branch. **Linked:** `docs/index.html` includes a View Résumé (PDF) link pointing to `../IS117_Portfolio_Resume.pdf`. **Verified:** The résumé opened and was readable in the student's browser test; the student also reported that all available links worked during an earlier mobile check.
 - Decide the specific page layout, colors, and navigation; build the portfolio.
 - Run the planned checks on desktop and mobile, recording actual outcomes.
 - Request classmate feedback through GitHub issues; for each issue, record my decision, linked change or reason for deferral, verification, and reviewer retry before closing.
