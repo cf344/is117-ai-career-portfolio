@@ -84,6 +84,13 @@ These are **planned checks**, not results.
 - **Observed result:** GitHub opened the correct `cf344` profile and LinkedIn opened the correct public profile.
 - **Status:** Passed for both profile links on the browser/device tested. Mobile testing of these newly added profile links is not separately confirmed.
 
+### Peer review — GitHub Issue #1 (November 17, 2026)
+
+- **Feedback received:** Reviewer praised navigation and career comparisons, reported a 404 on the résumé link, and recommended more spacing between text-heavy sections. The review did not include a full mobile test.
+- **Decision and changes:** Updated the résumé link to the PDF in the repository and increased section and paragraph spacing in `docs/index.html`.
+- **Evidence:** [Peer-review issue #1](https://github.com/cf344/is117-ai-career-portfolio/issues/1); [website fix commit](https://github.com/cf344/is117-ai-career-portfolio/commit/70ac35a2806ae90e1682ac39cd5f892dc1c9d45d).
+- **Retest pending:** Confirm the published résumé link opens correctly and the spacing is readable; ask reviewer to retry before closing the issue.
+
 ## Visual direction and honest persuasion
 
 I want a clean, modern, professional site that still feels personal. I plan to use consistent colors, readable fonts, clear navigation, and project cards. I will carry forward the decision to show **evidence of work** rather than make unsupported claims. I am still learning, so project descriptions should explain my actual contributions and what I learned. I will not present future work as completed.
