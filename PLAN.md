@@ -30,8 +30,8 @@ These are **planned checks**, not results.
 ### Story 2 — Exploring my projects
 **As a recruiter or visitor**, I want to explore projects so I can see skills supported by actual work.
 
-- **Essential feature:** A Projects section with accurate descriptions and GitHub links for my three IS117 projects: the [Off Hours T-shirt website](https://github.com/cf344/is117-brand-studio), the group business project (shared repository link to be added and verified), and this [AI career portfolio](https://github.com/cf344/is117-ai-career-portfolio).
-- **Observable check:** Open each project link and confirm it leads to the right repository; compare descriptions with the actual work. Keep missing group-project information clearly marked until verified.
+- **Essential feature:** A Projects section with accurate descriptions and GitHub links for my three IS117 projects: the [Off Hours T-shirt website](https://github.com/cf344/is117-brand-studio), the [Market Timeline Persuasion group project](https://github.com/cf344/market-time-line-persuasion) (shared team project; my role: team leader), and this [AI career portfolio](https://github.com/cf344/is117-ai-career-portfolio).
+- **Observable check:** Open each project link and confirm it leads to the right repository; compare descriptions with the actual work. The group repository URL and README were verified; confirm individual team members' full names and GitHub usernames before submitting the group roster.
 
 ### Story 3 — Viewing my résumé
 **As an employer**, I want to view or download a résumé so I can learn about the student's education, experience, and skills.
@@ -57,7 +57,7 @@ I want a clean, modern, professional site that still feels personal. I plan to u
 
 ## Open questions and next steps
 
-- Confirm the shared group business repository and member information where required.
+- Group project repository confirmed: [cf344/market-time-line-persuasion](https://github.com/cf344/market-time-line-persuasion). Its README identifies Clara (team leader), Mishal, Aryanna, and Tas; verify full names and GitHub usernames for each member before submitting the group roster.
 - LinkedIn status (November 17, 2026): I do not have a LinkedIn profile yet. I plan to create one later with accurate education, skills, and projects, then add and test its real URL. Until then, leave the link off the live portfolio or label it as a future addition; do not use a broken or fake link.
 - Add a readable résumé PDF and verify its destination.
 - Decide the specific page layout, colors, and navigation; build the portfolio.
