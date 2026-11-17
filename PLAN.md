@@ -89,7 +89,7 @@ These are **planned checks**, not results.
 - **Feedback received:** Reviewer praised navigation and career comparisons, reported a 404 on the résumé link, and recommended more spacing between text-heavy sections. The review did not include a full mobile test.
 - **Decision and changes:** Updated the résumé link to the PDF in the repository and increased section and paragraph spacing in `docs/index.html`.
 - **Evidence:** [Peer-review issue #1](https://github.com/cf344/is117-ai-career-portfolio/issues/1); [website fix commit](https://github.com/cf344/is117-ai-career-portfolio/commit/70ac35a2806ae90e1682ac39cd5f892dc1c9d45d).
-- **Retest pending:** Confirm the published résumé link opens correctly and the spacing is readable; ask reviewer to retry before closing the issue.
+- **Retest (student-reported):** Section spacing looks more readable — **passed**. The View Résumé (PDF) link still does not open correctly — **failed/unresolved**. Keep issue #1 open, diagnose the PDF destination, and request another retest after a fix.
 
 ## Visual direction and honest persuasion
 
@@ -99,7 +99,7 @@ I want a clean, modern, professional site that still feels personal. I plan to u
 
 - Group project repository confirmed: [cf344/market-time-line-persuasion](https://github.com/cf344/market-time-line-persuasion). Its README identifies Clara (team leader), Mishal, Aryanna, and Tas; verify full names and GitHub usernames for each member before submitting the group roster.
 - LinkedIn status (November 17, 2026): I supplied my public LinkedIn URL and added it alongside my GitHub profile to the live site's Professional Profiles section. **Verified:** Both links opened the correct profiles in the student's published-site test. **Remaining:** optional mobile retest of these newly added links.
-- A portfolio-friendly one-page résumé PDF has been prepared from my existing résumé, focusing on NJIT education, relevant technical skills and projects, work experience, and transferable skills. **Uploaded:** `IS117_Portfolio_Resume.pdf` is on the repository's `main` branch. **Linked:** `docs/index.html` includes a View Résumé (PDF) link pointing to `../IS117_Portfolio_Resume.pdf`. **Verified:** The résumé opened and was readable in the student's browser test; the student also reported that all available links worked during an earlier mobile check.
+- A portfolio-friendly one-page résumé PDF has been prepared from my existing résumé, focusing on NJIT education, relevant technical skills and projects, work experience, and transferable skills. **Uploaded:** `IS117_Portfolio_Resume.pdf` is on the repository's `main` branch. **Linked:** `docs/index.html` currently points View Résumé (PDF) to the GitHub repository PDF URL. **Latest retest:** The student reports this link still fails on the published site, despite an earlier successful résumé test. Treat the résumé link as **unresolved** until the current link is fixed and retested; earlier mobile link checks do not override this latest failure.
 - Decide the specific page layout, colors, and navigation; build the portfolio.
 - Run the planned checks on desktop and mobile, recording actual outcomes.
 - Request classmate feedback through GitHub issues; for each issue, record my decision, linked change or reason for deferral, verification, and reviewer retry before closing.
