@@ -71,6 +71,13 @@ These are **planned checks**, not results.
 - **Observed result:** Everything worked and all links tested were accessible from the phone.
 - **Status:** Passed for the mobile checks reported by the student. This does not verify any future features or links not yet published.
 
+### Projects section — published website check (November 17, 2026)
+
+- **Test (student-reported):** Opened the published portfolio website, located the Projects section, and followed each of the three GitHub project links.
+- **Observed result:** The Projects section was visible, all three project cards appeared, and each GitHub link worked.
+- **Status:** Passed for the published-site visibility and link checks reported by the student. Descriptions and mobile layout of the new section have not been separately verified.
+- **Deployment note:** The student observed a successful GitHub Pages build and deployment run #12 before testing the updated site.
+
 ## Visual direction and honest persuasion
 
 I want a clean, modern, professional site that still feels personal. I plan to use consistent colors, readable fonts, clear navigation, and project cards. I will carry forward the decision to show **evidence of work** rather than make unsupported claims. I am still learning, so project descriptions should explain my actual contributions and what I learned. I will not present future work as completed.
