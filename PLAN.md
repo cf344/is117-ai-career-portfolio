@@ -57,8 +57,14 @@ These are **planned checks**, not results.
 
 - **Test:** Open the published portfolio, follow the Résumé navigation link, then open **View Résumé (PDF)**.
 - **Observed result (student-reported):** The résumé PDF opened and its text was readable.
-- **Status:** Passed for the browser/device used by the student; mobile readability has **not** yet been checked.
+- **Status:** Passed for the browser/device used by the student; a separate mobile link/navigation check was subsequently reported as passed.
 - **Next check:** On a phone, open the published portfolio, find the Résumé section, tap **View Résumé (PDF)**, confirm the PDF opens and is readable without awkward horizontal scrolling, and report the result.
+
+### Mobile portfolio check (November 17, 2026)
+
+- **Test (student-reported):** Opened the published portfolio on a phone and tried the available links.
+- **Observed result:** Everything worked and all links tested were accessible from the phone.
+- **Status:** Passed for the mobile checks reported by the student. This does not verify any future features or links not yet published.
 
 ## Visual direction and honest persuasion
 
