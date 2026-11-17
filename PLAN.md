@@ -51,6 +51,15 @@ These are **planned checks**, not results.
 - **Essential feature:** A Career Interests section about AI, machine learning, and data science, linked to my [Adobe and Lingaro research](docs/career-research.md).
 - **Observable check:** Open the section and research link; verify the claims match the research and do not exaggerate my experience.
 
+## Test observations
+
+### Résumé link — desktop/browser check (November 17, 2026)
+
+- **Test:** Open the published portfolio, follow the Résumé navigation link, then open **View Résumé (PDF)**.
+- **Observed result (student-reported):** The résumé PDF opened and its text was readable.
+- **Status:** Passed for the browser/device used by the student; mobile readability has **not** yet been checked.
+- **Next check:** On a phone, open the published portfolio, find the Résumé section, tap **View Résumé (PDF)**, confirm the PDF opens and is readable without awkward horizontal scrolling, and report the result.
+
 ## Visual direction and honest persuasion
 
 I want a clean, modern, professional site that still feels personal. I plan to use consistent colors, readable fonts, clear navigation, and project cards. I will carry forward the decision to show **evidence of work** rather than make unsupported claims. I am still learning, so project descriptions should explain my actual contributions and what I learned. I will not present future work as completed.
