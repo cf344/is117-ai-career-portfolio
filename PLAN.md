@@ -42,8 +42,8 @@ These are **planned checks**, not results.
 ### Story 4 — Finding professional profiles
 **As a recruiter**, I want to find GitHub and LinkedIn so I can explore the student's work and professional background.
 
-- **Essential feature:** Clearly labeled links to my [GitHub profile](https://github.com/cf344) and a future LinkedIn profile (not created yet; URL pending).
-- **Observable check:** Follow both links and confirm they open the correct profiles. GitHub can be checked now; LinkedIn remains pending until I create a profile, add its actual URL, and verify it opens correctly. Do not use a placeholder or pretend the profile exists.
+- **Essential feature:** Clearly labeled links to my [GitHub profile](https://github.com/cf344) and my [LinkedIn profile](https://www.linkedin.com/in/clara-fesal-35174b450/) (link provided November 17, 2026).
+- **Observable check:** Follow both links and confirm they open the correct profiles. Both public profile links are now included in the site. Their live destinations and mobile accessibility still need to be tested by the student.
 
 ### Story 5 — Understanding my career goals
 **As a visitor**, I want to understand the student's AI career interests and how projects connect to those goals.
@@ -85,7 +85,7 @@ I want a clean, modern, professional site that still feels personal. I plan to u
 ## Open questions and next steps
 
 - Group project repository confirmed: [cf344/market-time-line-persuasion](https://github.com/cf344/market-time-line-persuasion). Its README identifies Clara (team leader), Mishal, Aryanna, and Tas; verify full names and GitHub usernames for each member before submitting the group roster.
-- LinkedIn status (November 17, 2026): I do not have a LinkedIn profile yet. I plan to create one later with accurate education, skills, and projects, then add and test its real URL. Until then, leave the link off the live portfolio or label it as a future addition; do not use a broken or fake link.
+- LinkedIn status (November 17, 2026): I supplied my public LinkedIn URL and added it alongside my GitHub profile to the live site's Professional Profiles section. **Pending:** verify both links after deployment on desktop and mobile.
 - A portfolio-friendly one-page résumé PDF has been prepared from my existing résumé, focusing on NJIT education, relevant technical skills and projects, work experience, and transferable skills. **Uploaded:** `IS117_Portfolio_Resume.pdf` is on the repository's `main` branch. **Linked:** `docs/index.html` includes a View Résumé (PDF) link pointing to `../IS117_Portfolio_Resume.pdf`. **Pending:** test the deployed link and readability on desktop and mobile; do not mark these checks as passed until tested.
 - Decide the specific page layout, colors, and navigation; build the portfolio.
 - Run the planned checks on desktop and mobile, recording actual outcomes.
