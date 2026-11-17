@@ -51,6 +51,11 @@ These are **planned checks**, not results.
 - **Essential feature:** A Career Interests section about AI, machine learning, and data science, linked to my [Adobe and Lingaro research](docs/career-research.md).
 - **Observable check:** Open the section and research link; verify the claims match the research and do not exaggerate my experience.
 
+## Implementation progress
+
+- **Projects section added to `docs/index.html` (November 17, 2026):** Three project cards now describe Off Hours Brand Studio, the collaborative Market Timeline Persuasion project, and the AI Career Portfolio, each with a GitHub repository link. Descriptions emphasize learning and documented work, not unverified professional experience.
+- **Still to verify:** Open the deployed site on desktop and phone, find the Projects section, open all three repository links, and confirm the descriptions match the repositories. Do not record these new checks as passed before testing.
+
 ## Test observations
 
 ### Résumé link — desktop/browser check (November 17, 2026)
