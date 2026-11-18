@@ -140,3 +140,10 @@ ChatGPT helped organize and draft this plan and its test ideas using my existing
 - **Change made:** Added direct Version A and Version B navigation links to the published research homepage, triggering a new Pages deployment ([commit](https://github.com/cf344/is117-ai-career-portfolio/commit/02bb7057c76d90b28a43ea95193ea19207fc3029)). Version B source was not modified.
 - **Student-reported retest:** “all work” after the change; Version A now opens successfully (**passed**).
 - **Limits:** This confirms the reported deployment issue was resolved. Separate Version A checks for each project link, résumé download, and phone layout have not been individually reported, and peer A/B testing is still pending.
+
+## A/B peer-review request — November 18, 2026
+
+- **Issue opened:** [#2 — Compare Portfolio Version A vs Version B](https://github.com/cf344/is117-ai-career-portfolio/issues/2).
+- **Same tasks in both versions:** Find the Off Hours GitHub repository and download/open the résumé PDF.
+- **Reviewer asked to report:** Whether both tasks worked in each version, navigation clarity, preference with reason, and a specific improvement.
+- **Status:** Feedback requested; no classmate results received or independently verified yet. After feedback, document the decision, any linked change, student retest, and reviewer retry before closing.
