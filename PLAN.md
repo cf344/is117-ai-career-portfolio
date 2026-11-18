@@ -1,7 +1,7 @@
 # IS117 Portfolio Plan
 
 **Milestone:** Plan — due November 17, 2026, 8:30 a.m. Eastern  
-**Status:** Proposed features and checks; implementation and testing are not yet complete.
+**Status:** Plan recorded; Version B implemented November 18, 2026, with student-reported functional checks. Version A, peer A/B comparison, and final launch selection remain pending.
 
 ## Reader, goals, and research evidence
 
@@ -109,3 +109,16 @@ I want a clean, modern, professional site that still feels personal. I plan to u
 ## AI assistance
 
 ChatGPT helped organize and draft this plan and its test ideas using my existing career research. I selected Option B and am responsible for checking the accuracy of my work, making decisions, and recording actual test results.
+
+## Build — Version B implementation and test (November 18, 2026)
+
+- **Working version:** [Project-focused portfolio Version B](https://cf344.github.io/is117-ai-career-portfolio/version-b.html).
+- **Source:** [docs/version-b.html](docs/version-b.html); [implementation commit](https://github.com/cf344/is117-ai-career-portfolio/commit/5c156389501538e596ce7e5ebea1473e20fb6368).
+- **Design:** Responsive project-focused layout with an introduction, three project cards, career interests, résumé PDF, and GitHub/LinkedIn links. Group work is explicitly labeled in progress. Original research homepage was preserved for comparison.
+- **Student-reported check — project links:** All three project links opened correctly (**passed**).
+- **Student-reported check — résumé:** PDF downloaded and opened (**passed**).
+- **Student-reported check — mobile:** Version B layout worked on the student's phone (**passed**).
+- **Scope:** These are the student's observations, not an independent reviewer retry or automated accessibility audit.
+- **Remaining:** Create and test a working Version A; ask a classmate to perform the same task in both versions; record feedback and a reasoned launch decision; request reviewer retry on any resolved issues. Existing résumé peer-review issue #1 remains open pending independent reviewer confirmation.
+
+**AI use:** ChatGPT helped implement Version B and record these student-reported results; the student performed the checks.
