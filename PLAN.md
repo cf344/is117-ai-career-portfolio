@@ -133,3 +133,10 @@ ChatGPT helped organize and draft this plan and its test ideas using my existing
 - **Next:** Student tests Version A, classmate attempts both versions, and the student records feedback, linked changes, retests, and a reasoned launch choice.
 
 **AI use:** ChatGPT helped implement Version A and draft the comparison plan; actual test results must be recorded by the student and reviewer.
+
+## Version A deployment retest — November 18, 2026
+
+- **Problem observed:** Student reported a 404 / Page Not Found when opening the newly created Version A link.
+- **Change made:** Added direct Version A and Version B navigation links to the published research homepage, triggering a new Pages deployment ([commit](https://github.com/cf344/is117-ai-career-portfolio/commit/02bb7057c76d90b28a43ea95193ea19207fc3029)). Version B source was not modified.
+- **Student-reported retest:** “all work” after the change; Version A now opens successfully (**passed**).
+- **Limits:** This confirms the reported deployment issue was resolved. Separate Version A checks for each project link, résumé download, and phone layout have not been individually reported, and peer A/B testing is still pending.
