@@ -1,7 +1,7 @@
 # IS117 Portfolio Plan
 
 **Milestone:** Plan — due November 17, 2026, 8:30 a.m. Eastern  
-**Status:** Plan recorded; Version B implemented November 18, 2026, with student-reported functional checks. Version A, peer A/B comparison, and final launch selection remain pending.
+**Status:** Plan recorded; Version B implemented November 18, 2026, with student-reported functional checks. Version A and Version B are implemented; Version A testing, peer A/B comparison, and final launch selection remain pending.
 
 ## Reader, goals, and research evidence
 
@@ -122,3 +122,14 @@ ChatGPT helped organize and draft this plan and its test ideas using my existing
 - **Remaining:** Create and test a working Version A; ask a classmate to perform the same task in both versions; record feedback and a reasoned launch decision; request reviewer retry on any resolved issues. Existing résumé peer-review issue #1 remains open pending independent reviewer confirmation.
 
 **AI use:** ChatGPT helped implement Version B and record these student-reported results; the student performed the checks.
+
+## Build — Version A implementation (November 18, 2026)
+
+- **Working version:** [Simple one-page portfolio Version A](https://cf344.github.io/is117-ai-career-portfolio/version-a.html).
+- **Source:** [docs/version-a.html](docs/version-a.html); [implementation commit](https://github.com/cf344/is117-ai-career-portfolio/commit/2bfc14a43b421a61912acfd83641966f7650b665).
+- **Design:** Minimal light-background single scrolling page with About, Skills, Projects, Career, Résumé, and Profiles sections. The same project repositories and résumé resource are available as in Version B, with a simpler presentation.
+- **Status:** File committed; student browser/mobile checks and peer comparison have not yet been reported. Do not mark these as passed until observed.
+- **Comparison task for reviewer:** In each version, find the Off Hours project repository and download the résumé. Record whether each task succeeds, navigation clarity, and which version is easier to use; report through a GitHub issue.
+- **Next:** Student tests Version A, classmate attempts both versions, and the student records feedback, linked changes, retests, and a reasoned launch choice.
+
+**AI use:** ChatGPT helped implement Version A and draft the comparison plan; actual test results must be recorded by the student and reviewer.
