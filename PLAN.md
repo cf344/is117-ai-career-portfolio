@@ -147,3 +147,13 @@ ChatGPT helped organize and draft this plan and its test ideas using my existing
 - **Same tasks in both versions:** Find the Off Hours GitHub repository and download/open the résumé PDF.
 - **Reviewer asked to report:** Whether both tasks worked in each version, navigation clarity, preference with reason, and a specific improvement.
 - **Status:** Feedback requested; no classmate results received or independently verified yet. After feedback, document the decision, any linked change, student retest, and reviewer retry before closing.
+
+## Issue #1 — Student retest (November 18, 2026)
+
+- **Published website tested:** https://cf344.github.io/is117-ai-career-portfolio/
+- **Résumé PDF:** Passed — student confirmed the download and PDF opening.
+- **Website spacing:** Passed — student confirmed sections were readable and well spaced.
+- **Navigation:** Passed — student confirmed navigation links reached the expected sections.
+- **Evidence of fixes:** [Spacing commit](https://github.com/cf344/is117-ai-career-portfolio/commit/70ac35a2806ae90e1682ac39cd5f892dc1c9d45d) and [résumé download fix](https://github.com/cf344/is117-ai-career-portfolio/commit/c0ef8de89943c3a055112d9e3b790efc6ca84886).
+- **Issue:** [#1 — Peer review feedback](https://github.com/cf344/is117-ai-career-portfolio/issues/1).
+- **Status:** Student retest passed for all three checks; reviewer retry remains outstanding. Do not close until reviewer confirmation.
